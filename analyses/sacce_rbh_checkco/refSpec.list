@@ -1,0 +1,31 @@
+fullName	ncbiID	abbrName
+Ashbya gossypii (Eremothecium gossypii)	ncbi33169	ago
+Schizosaccharomyces pombe	ncbi4896	schpo
+Candida albicans	ncbi5476	canal
+Saccharomyces cerevisiae	ncbi4932	sacce
+Neurospora crassa	ncbi5141	neucr
+Aspergillus nidulans	ncbi162425	aspni
+Homo sapiens	ncbi9606	hsa
+Mus musculus	ncbi10090	mmu
+Rattus norvegicus	ncbi10116	rno
+Danio rerio	ncbi7955	dre
+Drosophila melanogaster	ncbi7227	dme
+Caenorhabditis elegans	ncbi6239	cel
+Monosiga brevicollis	ncbi81824	monbr
+Nematostella vectensis	ncbi45351	nemve
+Entamoeba histolytica	ncbi5759	ehi
+Trypanosoma brucei	ncbi5691	trybr
+Arabidopsis thaliana	ncbi3702	ath
+Plasmodium falciparum 3D7	ncbi36329	pfa
+Cryptosporidium hominis	ncbi237895	cho
+Methanocaldococcus jannaschii	ncbi2190	mja
+Aeropyrum pernix	ncbi56636	ape
+Escherichia coli K-12 MG1655	ncbi83333	eco
+Neisseria meningitidis MC58 (serogroup B)	ncbi122586	nme
+Helicobacter pylori 26695	ncbi85962	hpy
+Bacillus subtilis subsp. subtilis 168	ncbi224308	bsu
+Lactococcus lactis subsp. lactis Il1403	ncbi272623	lla
+Mycobacterium tuberculosis H37Rv	ncbi83332	mtu
+Mycoplasma genitalium G37	ncbi243273	mge
+Synechocystis sp. PCC 6803	ncbi1148	syn
+Aquifex aeolicus	ncbi63363	aae

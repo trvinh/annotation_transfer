@@ -1,0 +1,210 @@
+KO	nb_pathways	pathwayID	pathwayType
+K02874	1	ko03010	Translation
+K12388	2	ko04142;ko04722	Transport and catabolism;Nervous system
+K16603	0	NA	NA
+K16609	0	NA	NA
+K16599	0	NA	NA
+K16608	0	NA	NA
+K02173	0	NA	NA
+K20410	1	ko04150	Signal transduction
+K15715	0	NA	NA
+K19578	0	NA	NA
+K01501	5	ko00380;ko00460;ko00627;ko00643;ko00910	Amino acid metabolism;Metabolism of other amino acids;Xenobiotics biodegradation and metabolism;Energy metabolism
+K09660	0	NA	NA
+K02429	0	NA	NA
+K08174	0	NA	NA
+K08175	0	NA	NA
+K16449	0	NA	NA
+K13130	1	ko03013	Translation
+K03593	0	NA	NA
+K10882	2	ko03440;ko03460	Replication and repair
+K19196	0	NA	NA
+K08154	0	NA	NA
+K08745	2	ko03320;ko04931	Endocrine system;Endocrine and metabolic diseases
+K08749	2	ko03320;ko04931	Endocrine system;Endocrine and metabolic diseases
+K00666	0	NA	NA
+K12180	0	NA	NA
+K11511	1	ko03460	Replication and repair
+K03321	0	NA	NA
+K17425	0	NA	NA
+K14009	1	ko04141	Folding, sorting and degradation
+K18166	0	NA	NA
+K07400	0	NA	NA
+K09726	0	NA	NA
+K08183	0	NA	NA
+K11170	0	NA	NA
+K13783	0	NA	NA
+K04450	22	ko04010;ko04013;ko04022;ko04151;ko04211;ko04261;ko04624;ko04668;ko04728;ko04911;ko04915;ko04918;ko04922;ko04925;ko05030;ko05031;ko05034;ko05161;ko05164;ko05166;ko05169;ko05203	Signal transduction;Aging;Circulatory system;Immune system;Nervous system;Endocrine system;Substance dependence;Infectious diseases: Viral;Cancers: Overview
+K10034	2	ko04060;ko04062	Signaling molecules and interaction;Immune system
+K14613	1	ko01523	Drug resistance: Antineoplastic
+K06212	0	NA	NA
+K00905	0	NA	NA
+K00898	0	NA	NA
+K02878	1	ko03010	Translation
+K01897	7	ko00061;ko00071;ko01212;ko02024;ko03320;ko04146;ko04920	Lipid metabolism;Global and overview maps;Cellular community - prokaryotes;Endocrine system;Transport and catabolism
+K01911	1	ko00130	Metabolism of cofactors and vitamins
+K02182	0	NA	NA
+K00666	0	NA	NA
+K06019	1	ko00190	Energy metabolism
+K01097	1	ko00520	Carbohydrate metabolism
+K01091	1	ko00630	Carbohydrate metabolism
+K07025	0	NA	NA
+K02886	1	ko03010	Translation
+K19519	0	NA	NA
+K03294	0	NA	NA
+K09141	0	NA	NA
+K09810	1	ko02010	Membrane transport
+K02003	0	NA	NA
+K02298	1	ko00190	Energy metabolism
+K03446	0	NA	NA
+K08169	0	NA	NA
+K06998	1	ko02024	Cellular community - prokaryotes
+K03593	0	NA	NA
+K03790	0	NA	NA
+K03817	0	NA	NA
+K05019	1	ko03013	Translation
+K02890	1	ko03010	Translation
+K02003	0	NA	NA
+K16786	1	ko02010	Membrane transport
+K13926	0	NA	NA
+K01443	1	ko00520	Carbohydrate metabolism
+K13868	1	ko04974	Digestive system
+K19540	0	NA	NA
+K20371	0	NA	NA
+K00669	1	ko00380	Amino acid metabolism
+K15361	1	ko03460	Replication and repair
+K08693	3	ko00230;ko00240;ko00760	Nucleotide metabolism;Metabolism of cofactors and vitamins
+K12388	2	ko04142;ko04722	Transport and catabolism;Nervous system
+K01061	3	ko00361;ko00364;ko00623	Xenobiotics biodegradation and metabolism
+K09660	0	NA	NA
+K10290	0	NA	NA
+K01011	3	ko00270;ko00920;ko04122	Amino acid metabolism;Energy metabolism;Folding, sorting and degradation
+K06917	0	NA	NA
+K03950	5	ko00190;ko04932;ko05010;ko05012;ko05016	Energy metabolism;Endocrine and metabolic diseases;Neurodegenerative diseases
+K18826	1	ko00310	Amino acid metabolism
+K00853	1	ko00040	Carbohydrate metabolism
+K00078	2	ko00040;ko00980	Carbohydrate metabolism;Xenobiotics biodegradation and metabolism
+K14696	0	NA	NA
+K08193	0	NA	NA
+K03978	0	NA	NA
+K19201	0	NA	NA
+K18665	0	NA	NA
+K17879	1	ko04146	Transport and catabolism
+K11655	0	NA	NA
+K01537	0	NA	NA
+K00002	5	ko00010;ko00040;ko00561;ko00930;ko01220	Carbohydrate metabolism;Lipid metabolism;Xenobiotics biodegradation and metabolism;Global and overview maps
+K02021	0	NA	NA
+K20722	0	NA	NA
+K02884	1	ko03010	Translation
+K00329	1	ko00190	Energy metabolism
+K15891	2	ko00900;ko00909	Metabolism of terpenoids and polyketides
+K20286	0	NA	NA
+K10625	0	NA	NA
+K15303	1	ko00980	Xenobiotics biodegradation and metabolism
+K03424	0	NA	NA
+K09562	1	ko04141	Folding, sorting and degradation
+K14001	1	ko04141	Folding, sorting and degradation
+K14996	0	NA	NA
+K06198	0	NA	NA
+K02888	1	ko03010	Translation
+K18980	0	NA	NA
+K07199	12	ko04068;ko04152;ko04211;ko04213;ko04710;ko04910;ko04920;ko04921;ko04922;ko04931;ko04932;ko05410	Signal transduction;Aging;Environmental adaptation;Endocrine system;Endocrine and metabolic diseases;Cardiovascular diseases
+K08187	2	ko04919;ko04974	Endocrine system;Digestive system
+K08177	0	NA	NA
+K13024	1	ko04070	Signal transduction
+K09027	3	ko04141;ko04932;ko05166	Folding, sorting and degradation;Endocrine and metabolic diseases;Infectious diseases: Viral
+K03111	3	ko03030;ko03430;ko03440	Replication and repair
+K12397	1	ko04142	Transport and catabolism
+K07189	2	ko04910;ko04931	Endocrine system;Endocrine and metabolic diseases
+K09802	0	NA	NA
+K10694	0	NA	NA
+K12302	4	ko04721;ko04723;ko04724;ko05033	Nervous system;Substance dependence
+K09651	0	NA	NA
+K09652	0	NA	NA
+K02441	0	NA	NA
+K03952	5	ko00190;ko04932;ko05010;ko05012;ko05016	Energy metabolism;Endocrine and metabolic diseases;Neurodegenerative diseases
+K07199	12	ko04068;ko04152;ko04211;ko04213;ko04710;ko04910;ko04920;ko04921;ko04922;ko04931;ko04932;ko05410	Signal transduction;Aging;Environmental adaptation;Endocrine system;Endocrine and metabolic diseases;Cardiovascular diseases
+K08966	1	ko00270	Amino acid metabolism
+K02802	2	ko00520;ko02060	Carbohydrate metabolism;Membrane transport
+K05520	0	NA	NA
+K05523	1	ko00620	Carbohydrate metabolism
+K03596	1	ko05134	Infectious diseases: Bacterial
+K06096	1	ko04530	Cellular community - eukaryotes
+K13525	2	ko04141;ko05134	Folding, sorting and degradation;Infectious diseases: Bacterial
+K07313	0	NA	NA
+K01525	1	ko00230	Nucleotide metabolism
+K11290	0	NA	NA
+K13619	0	NA	NA
+K06889	0	NA	NA
+K01537	0	NA	NA
+K19751	0	NA	NA
+K00327	0	NA	NA
+K17569	0	NA	NA
+K03629	1	ko03440	Replication and repair
+K03631	0	NA	NA
+K08183	0	NA	NA
+K11810	0	NA	NA
+K09405	0	NA	NA
+K09404	0	NA	NA
+K09402	0	NA	NA
+K09385	1	ko04068	Signal transduction
+K07200	12	ko04068;ko04152;ko04211;ko04213;ko04710;ko04910;ko04920;ko04921;ko04922;ko04931;ko04932;ko05410	Signal transduction;Aging;Environmental adaptation;Endocrine system;Endocrine and metabolic diseases;Cardiovascular diseases
+K03372	1	ko00604	Glycan biosynthesis and metabolism
+K01053	5	ko00030;ko00053;ko00930;ko01200;ko01220	Carbohydrate metabolism;Xenobiotics biodegradation and metabolism;Global and overview maps
+K02027	0	NA	NA
+K18753	0	NA	NA
+K13056	1	ko04114	Cell growth and death
+K10634	0	NA	NA
+K20493	0	NA	NA
+K04352	4	ko04010;ko04013;ko04014;ko04360	Signal transduction;Development
+K18189	0	NA	NA
+K08093	4	ko00030;ko00680;ko01200;ko01230	Carbohydrate metabolism;Energy metabolism;Global and overview maps
+K17608	1	ko04013	Signal transduction
+K02994	1	ko03010	Translation
+K13806	3	ko04723;ko04745;ko04925	Nervous system;Sensory system;Endocrine system
+K19784	0	NA	NA
+K03206	0	NA	NA
+K05760	8	ko04062;ko04370;ko04510;ko04670;ko04810;ko05100;ko05203;ko05205	Immune system;Signal transduction;Cellular community - eukaryotes;Cell motility;Infectious diseases: Bacterial;Cancers: Overview
+K05668	2	ko01523;ko02010	Drug resistance: Antineoplastic;Membrane transport
+K08228	0	NA	NA
+K08230	0	NA	NA
+K04771	2	ko01503;ko02020	Drug resistance: Antimicrobial;Signal transduction
+K08669	4	ko04210;ko04214;ko04215;ko05012	Cell growth and death;Neurodegenerative diseases
+K13026	0	NA	NA
+K14442	1	ko03018	Folding, sorting and degradation
+K14972	0	NA	NA
+K10728	1	ko03440	Replication and repair
+K15303	1	ko00980	Xenobiotics biodegradation and metabolism
+K10991	0	NA	NA
+K13348	1	ko04146	Transport and catabolism
+K15734	1	ko00830	Metabolism of cofactors and vitamins
+K00090	1	ko00030	Carbohydrate metabolism
+K00049	3	ko00260;ko00620;ko00630	Amino acid metabolism;Carbohydrate metabolism
+K00015	1	ko00630	Carbohydrate metabolism
+K03152	0	NA	NA
+K06219	0	NA	NA
+K01739	4	ko00270;ko00450;ko00920;ko01230	Amino acid metabolism;Metabolism of other amino acids;Energy metabolism;Global and overview maps
+K03446	0	NA	NA
+K08066	2	ko04612;ko05152	Immune system;Infectious diseases: Bacterial
+K15627	1	ko05202	Cancers: Overview
+K03953	5	ko00190;ko04932;ko05010;ko05012;ko05016	Energy metabolism;Endocrine and metabolic diseases;Neurodegenerative diseases
+K12404	1	ko04142	Transport and catabolism
+K16837	1	ko04151	Signal transduction
+K05776	1	ko02010	Membrane transport
+K16216	0	NA	NA
+K04708	1	ko00600	Lipid metabolism
+K08997	0	NA	NA
+K15693	0	NA	NA
+K12307	1	ko04142	Transport and catabolism
+K19517	1	ko00562	Carbohydrate metabolism
+K17948	0	NA	NA
+K02169	1	ko00780	Metabolism of cofactors and vitamins
+K09594	2	ko04150;ko05211	Signal transduction;Cancers: Specific types
+K06369	1	ko02024	Cellular community - prokaryotes
+K08757	4	ko03320;ko04975;ko04977;ko05143	Endocrine system;Digestive system;Infectious diseases: Parasitic
+K02254	0	NA	NA
+K10416	3	ko04145;ko04962;ko05132	Transport and catabolism;Excretory system;Infectious diseases: Bacterial
+K00077	1	ko00770	Metabolism of cofactors and vitamins
+K16339	1	ko04151	Signal transduction
+K18326	1	ko02020	Signal transduction
+K02493	0	NA	NA
