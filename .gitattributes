@@ -1,0 +1,7 @@
+*.FAS filter=lfs diff=lfs merge=lfs -text
+*.mFAS filter=lfs diff=lfs merge=lfs -text
+*.fas filter=lfs diff=lfs merge=lfs -text
+*.fa filter=lfs diff=lfs merge=lfs -text
+*.fasta filter=lfs diff=lfs merge=lfs -text
+*.domains filter=lfs diff=lfs merge=lfs -text
+*.mDomains filter=lfs diff=lfs merge=lfs -text
